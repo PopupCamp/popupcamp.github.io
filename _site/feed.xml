@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BetterMontreal community events</title>
+    <title>BetterMTL Community Happenings</title>
     <description>Simple Jekyll theme to host internal/external events happening in and around your area. Free free to contribute or fork the repo.
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Mar 2016 10:42:50 -0400</pubDate>
-    <lastBuildDate>Mon, 21 Mar 2016 10:42:50 -0400</lastBuildDate>
+    <pubDate>Mon, 21 Mar 2016 11:55:12 -0400</pubDate>
+    <lastBuildDate>Mon, 21 Mar 2016 11:55:12 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
