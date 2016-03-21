@@ -7,7 +7,7 @@ button: true
 
 ---
 
-Adding an event to your site is easy. 
+Adding an event to your site is easy.
 
 #Getting started
 Create a new .md file or copy an existing post in the  `_posts` directory to get started. The post file name must be in this format:
@@ -30,7 +30,7 @@ title:  "Talk on ES6 JavaScript"
 #Url to your cover photo for your event. [optional - default will be used if not given]
 cover: "https://frontendmasters.com/assets/es6-logo.png"
 
-#The date of the event. 
+#The date of the event.
 date:   2016-02-01 16:04:19 +0000
 
 #Start time of the event
@@ -42,7 +42,7 @@ end_time: "13:00"
 #event organiser details
 
 #event organiser details
-organiser: "Frank Smith"
+organiser: "Paul Cuciureanu"
 
 #Make sure you setup your Organiser details in the _data directory in the organisers.yml file
 
