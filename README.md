@@ -30,7 +30,6 @@ Access via: [http://localhost:4000](http://localhost:4000)
 ### Screen Shot 1
 ![Evento - free Jekyll theme](/screenshot.png)
 ### Screen Shot 2
-![Evento - free Jekyll theme](/screenshot2.png)
 
 ---
 
