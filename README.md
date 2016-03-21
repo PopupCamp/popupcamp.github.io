@@ -1,18 +1,18 @@
-# Evento
+# BetterMTL
 
-Evento is a minimal, responsive theme for Jekyll. The projects allows people, groups or companies to host and show a list future and past events.
+Forked from Evento. Allows groups or companies to host and show events (future and past).
 
 ### Features
 
 * Clean layout
-* Resposive layout
-* Shows future and past events
-* Easy for people to add events
+* Responsive layout
+* Easy for people to add events 
+* Future and past events in one list
 
 ---
 
 ### Install and Test
-
+oops change this below:
 1. Download or clone repo `git clone git@github.com:boyney123/evento.git`
 2. Enter the folder: `cd evento/`
 4. Start Jekyll server: `jekyll serve`
