@@ -1,6 +1,4 @@
-# Evento Theme/Blog
-#
-# This config file is meant for settings that affect your whole blog, values
+# This config file is meant for settings that affect your whole activity list, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
@@ -11,8 +9,7 @@ title: Activities for a BetterMTL
 # What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
 event_label: Activities
 
-description: > # this means to ignore newlines until "baseurl:"
-  Montrealers for a better city
+description: Montrealers team up, better city
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bettermtl.github.io" # the base hostname & protocol for your site
