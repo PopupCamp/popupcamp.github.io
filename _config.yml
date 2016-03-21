@@ -6,27 +6,26 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: BetterMTL Community Happenings
+title: Activities for a BetterMTL
 
-#What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
-event_label: Events
+# What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
+event_label: Activities
 
 description: > # this means to ignore newlines until "baseurl:"
-  Simple Jekyll theme to host internal/external events happening in and around your area. Free free to contribute or fork the repo.
+  Montrealers for a better city
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://bettermtl.github.io" # the base hostname & protocol for your site
 
-#These settings might be able to go?
 author: Paul Cuciureanu
 twitter_username: pcuci
-github_username:  BetterMontreal/evento
-company_name: BetterMontreal
+github_username:  bettermtl
+company_name: BetterMTL
 
 # Build settings
 markdown: kramdown
 
-#Have to show future posts for future events.
+# Show future posts for future events.
 future: true
 
 permalink: /event/:title.html

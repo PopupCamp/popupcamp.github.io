@@ -1,19 +1,19 @@
 # BetterMTL
 
-Forked from Evento. Allows groups or companies to host and show events (future and past).
+A simple way for a whole city to contribute to a shared calendar of activities.
+
+[Add your activities](http://bettermtl.github.io/about/)
+
 
 ### Features
-
-* Clean layout
-* Responsive layout
-* Easy for people to add events 
+* Clean responsive layout
+* Easy to add events, by and for the community
 * Future and past events in one list
 
 ---
 
 ### Install and Test
-oops change this below:
-1. Download or clone repo `git clone git@github.com:boyney123/evento.git`
+1. Download or clone repo `git clone git@github.com:bettermtl/bettermtl.github.io.git`
 2. Enter the folder: `cd evento/`
 4. Start Jekyll server: `jekyll serve`
 
@@ -21,18 +21,6 @@ Access via: [http://localhost:4000](http://localhost:4000)
 
 ---
 
-### Demo and Download
-
-[Demo](http://evento.davidboyne.co.uk)
-
-[Download](https://github.com/boyney123/evento/archive/master.zip)
-
-### Screen Shot 1
-![Evento - free Jekyll theme](/screenshot.png)
-### Screen Shot 2
-
----
-
 ### Copyright and license
 
-It is under [the MIT license](/LICENSE).
+[MIT license](/LICENSE).

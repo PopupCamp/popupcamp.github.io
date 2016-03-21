@@ -1,12 +1,12 @@
 ---
 layout: default
-cover: 'http://www.abisolutions.org.uk/website/images/ConferencesHR.jpg'
+cover: 'http://cdn.mtlblog.com/uploads/2014/04/13694776595_4b4c70226b_o.jpg'
 ---
 
 
 
 <div class="home">
-    
+
     {% capture currentDate %}{{'now' | date: '%s' }}{% endcapture %}
 
     <div class="clearfix">
@@ -18,7 +18,7 @@ cover: 'http://www.abisolutions.org.uk/website/images/ConferencesHR.jpg'
         {% capture blogDate %}{{post.date | date: '%s' }}{% endcapture %}
 
         {% if blogDate >= currentDate %}
-      
+
           <a href="{{ post.url | prepend: site.baseurl }}">
             {% if post.cover %}
             <div class="event-sqaure" style="background-image:url({{post.cover}});">
@@ -28,7 +28,7 @@ cover: 'http://www.abisolutions.org.uk/website/images/ConferencesHR.jpg'
               <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
                <div class='event-square-overlay'></div>
             </div>
-           
+
           </a>
 
         {% endif %}
@@ -48,12 +48,12 @@ cover: 'http://www.abisolutions.org.uk/website/images/ConferencesHR.jpg'
             {% if post.cover %}
             <div class="event-sqaure" style="background-image:url({{post.cover}});">
             {% else %}
-            <div class="event-sqaure" style="background-image:url(http://app-beacon.com/wp-content/uploads/2015/05/events.jpg);">
+            <div class="event-sqaure" style="background-image:url(http://static1.squarespace.com/static/54db2500e4b06f24f8c5a607/t/54dbbfc5e4b03442c79b422e/1423687627142/Start+up+Party.jpeg?format=2500w);">
             {% endif %}
               <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
               <div class='event-square-overlay'></div>
             </div>
-            
+
           </a>
 
         {% endif %}
