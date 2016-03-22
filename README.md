@@ -1,4 +1,4 @@
-[![Chat on gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg)](https://gitter.im/bettermtl/general) 
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=plastic)](https://gitter.im/bettermtl/general)
 [![Stories in Ready](https://badge.waffle.io/bettermtl/bettermtl.github.io.png?label=Ready)](https://waffle.io/bettermtl/bettermtl.github.io)
 
 # BetterMTL
