@@ -1,5 +1,4 @@
-
-[![Stories in Ready](https://badge.waffle.io/bettermtl/bettermtl.github.io.png?label=Ready)](https://waffle.io/tomboy-notes/tomboy.ios)
+[![Chat on gitter](https://gitter.im/bettermtl/general)](https://img.shields.io/gitter/room/gitterHQ/gitter.svg) [![Stories in Ready](https://badge.waffle.io/bettermtl/bettermtl.github.io.png?label=Ready)](https://waffle.io/tomboy-notes/tomboy.ios)
 
 # BetterMTL
 
