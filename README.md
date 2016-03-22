@@ -1,3 +1,6 @@
+
+[![Stories in Ready](https://badge.waffle.io/bettermtl/bettermtl.github.io.png?label=Ready)](https://waffle.io/tomboy-notes/tomboy.ios)
+
 # BetterMTL
 
 A simple way for a whole city to contribute to a shared calendar of activities.
