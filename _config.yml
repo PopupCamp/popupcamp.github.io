@@ -4,20 +4,20 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Activities for a BetterMTL
+title: PopupCamp
 
 # What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
-event_label: Activities
+event_label: Events
 
-description: Montrealers team up, better city
+description: Mobile daycare services for events
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://bettermtl.github.io" # the base hostname & protocol for your site
+url: "http://popupcamp.github.io" # the base hostname & protocol for your site
 
 author: Paul Cuciureanu
-twitter_username: pcuci
-github_username:  bettermtl
-company_name: BetterMTL
+twitter_username: PopupCamp
+github_username:  PopupCamp
+company_name: PopupCamp Inc.
 
 # Build settings
 markdown: kramdown

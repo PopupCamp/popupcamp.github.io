@@ -1,11 +1,11 @@
 ---
 layout: page
 navigation_title: About
-title: About BetterMTL
+title: About PopupCamp
 permalink: /about/
 ---
 
-[BetterMTL](http://bettermtl.github.io) allows the Montreal community to self-organize itself and speak with one voice.
+[PopupCamp](http://popupcamp.github.io) allows the Montreal community to self-organize itself and speak with one voice.
 
 It is an open source Jekyll project which allows people to create internal/external events, showing times and information for anybody that wants to attend.
 

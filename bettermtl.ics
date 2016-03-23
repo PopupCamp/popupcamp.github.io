@@ -3,10 +3,10 @@ layout: null
 ---
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:http://bettermtl.github.io/
+PRODID:http://popupcamp.github.io/
 METHOD:PUBLISH{% for post in site.posts limit:10 %}
 BEGIN:VEVENT
-UID:{{ post.date | date: "%Y%m%d" }}@bettermtl.github.io
+UID:{{ post.date | date: "%Y%m%d" }}@popupcamp.github.io
 ORGANIZER;CN="Organizer Name":MAILTO:happy@samergo.org
 LOCATION: {{ post.location }}
 SUMMARY:{{ post.title }}
