@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/PopupCamp/popupcamp.github.io.png?label=ready&title=Ready)](https://waffle.io/bettermtl/bettermtl.github.io)
+[![Stories in Ready](https://badge.waffle.io/PopupCamp/popupcamp.github.io.png?label=ready&title=Ready)](https://waffle.io/PopupCamp/popupcamp.github.io)
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=plastic)](https://gitter.im/PopupCamp)
 
 # PopupCamp
